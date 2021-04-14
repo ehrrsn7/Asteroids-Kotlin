@@ -5,6 +5,7 @@ Asteroids!
 This is a Game that I made (cloned from the Atari Game) as an android app.
 
 [Demonstration video, pt 1 - https://www.youtube.com/watch?v=5OCiM1h7AJI](https://www.youtube.com/watch?v=5OCiM1h7AJI)
+
 [Demonstration video, pt 2 - https://www.youtube.com/watch?v=WnqdI3prlWI](https://www.youtube.com/watch?v=WnqdI3prlWI)
 
 # Development Environment
